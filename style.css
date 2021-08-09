@@ -1,0 +1,43 @@
+html
+{
+    background-color: aqua;
+}
+
+.header
+{
+    background-color:#afffad;
+    opacity:1;
+}
+
+.header:hover
+{
+    background-color: deeppink;
+    opacity:1;
+    background-image:url("teddy.png") ;
+}
+
+.grid
+{
+    background-color: beige;
+    display:flex;
+    padding:10px
+}
+
+.grid1
+{
+    margin: 10px;
+    padding:80px;
+    background-color: aqua;
+    border-radius:20px;
+    border-style:solid;
+    border-color: black;
+    width:420;
+    height:420;
+    
+}
+
+.grid1:hover
+{
+    background-color: fuchsia;
+}
+
